@@ -458,8 +458,16 @@ No matter how much our lives have changed, my wishes for you never will. I since
 you are always that cute one krushna for me!
 
 (01001001 00100000 01101100 01101111 01110110 01100101 00100000 01111001 01101111 01110101)
- 
+Decode me :)
+
+tiny hint:
+"A little secret for the curious mind... 💻🤍"
+
+may be leave it it's better decison !
+Even if I'm no longer an important part of your life, 
+thank you for visiting my little surprise. Happy Birthday! 🌸 
 Take care, always. 🤍
+
 """
     )
 
