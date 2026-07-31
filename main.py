@@ -100,7 +100,7 @@ if st.session_state.page == 1:
     left, center, right = st.columns([1,2,1])
 
     with center:
-        st.image("gif/helo.gif", use_container_width=False)
+        st.image("helo.gif", use_container_width=False)
 
     st.markdown(
         """
@@ -126,7 +126,7 @@ if st.session_state.page == 1:
 
     with center:
         if st.button("🙈 Maybe Later", use_container_width=True):
-            st.image("gif/why animation.gif", use_container_width=False)
+            st.image("why animation.gif", use_container_width=False)
             st.success("😂Then wait until you not click on the yes button 💕" \
             "\n click on yes button ")
 
@@ -210,37 +210,37 @@ elif st.session_state.page == 2:
 
     st.title("📸 Memories with you 📸")
 
-    st.image("gif/cutest.gif", width=180)
+    st.image("cutest.gif", width=180)
 
     col1, col2, col3, col4, col5, col6 = st.columns(6, gap="large")
 
     with col1:
-        st.image("image/IMG20250504150611.jpg", use_container_width=True)
+        st.image("IMG20250504150611.jpg", use_container_width=True)
         st.markdown("🌸 Koradi Trip")
         st.write("*Every picture with you became a memory I'll always cherish. 💖*")
 
     with col2:
-        st.image("image/ewdfdg.jpg", use_container_width=True)
+        st.image("ewdfdg.jpg", use_container_width=True)
         st.markdown("💖movement of love")
         st.write("*Some moments stay in the heart forever, and this is one of them. ✨🤍*")
 
     with col3:
-        st.image("image/IMG20250222154728.jpg", use_container_width=True)
+        st.image("IMG20250222154728.jpg", use_container_width=True)
         st.markdown("✨ Beautiful Day")
         st.write("A memory I'll always keep safe.")
 
     with col4:
-        st.image("image/IMG-20260127-WA0256.jpg", use_container_width=True)
+        st.image("IMG-20260127-WA0256.jpg", use_container_width=True)
         st.markdown("💖 Special Moment")
         st.write("The moment I fell for you.")
 
     with col5:
-        st.image("image/IMG-20260128-WA0225.jpg", use_container_width=True)
+        st.image("IMG-20260128-WA0225.jpg", use_container_width=True)
         st.markdown("🌷 Great Time")
         st.write("*A simple day, a beautiful memory, and my favourite smile. 😊💙*")
 
     with col6:
-        st.image("image/IMG-20260130-WA0066(1).jpg", use_container_width=True)
+        st.image("IMG-20260130-WA0066(1).jpg", use_container_width=True)
         st.markdown("🤍 Last Memory")
         st.write("*No matter how much time passes, this memory will always make me smile. 🌸💕*")
 
@@ -322,7 +322,7 @@ elif st.session_state.page==3:
 
     st.title("💌 A Few Things I Want To Say")
 
-    st.image("gif/bday.gif",width=180,use_container_width=False)
+    st.image("bday.gif",width=180,use_container_width=False)
 
     st.write("""
 
@@ -359,7 +359,6 @@ I hope this little website brought a smile to your face. 😊💌
         "🌸 Thank you for always being yourself.",
         "🐼 You're one of my favourite humans.",
         "✨ Keep smiling because it looks good on you.",
-        "💖 I'm really lucky that I met you.",
         "🌈 Never stop chasing your dreams."
     ]
 
@@ -442,7 +441,7 @@ elif st.session_state.page==4:
 
     st.title("🎂 HAPPY BIRTHDAY KRUSHNA 🎂")
 
-    st.image("image/IMG-20260123-WA0051(2).jpg",width=250,use_container_width=False)
+    st.image("IMG-20260123-WA0051(2).jpg",width=250,use_container_width=False)
 
     st.markdown(
         """
