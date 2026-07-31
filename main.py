@@ -463,9 +463,9 @@ Decode me :)
 tiny hint:
 "A little secret for the curious mind... 💻🤍"
 
-may be leave it it's better decison !
 Even if I'm no longer an important part of your life, 
-thank you for visiting my little surprise. Happy Birthday! 🌸 
+thank you for visiting my little surprise. Happy Birthday! 🌸
+
 Take care, always. 🤍
 
 """
