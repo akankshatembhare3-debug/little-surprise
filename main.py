@@ -80,7 +80,7 @@ if st.session_state.page == 1:
         <h1 style="text-align:center;
         font-size:60px;
         color:#ff4d88;">
-        ✨ Hey Krushna Kayande✨
+        ✨ Hey Birthday Boy ✨
         </h1>
         """,
         unsafe_allow_html=True,
